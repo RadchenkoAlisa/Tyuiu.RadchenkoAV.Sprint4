@@ -1,5 +1,5 @@
 ﻿using Tyuiu.RadchenkoAV.Sprint4.Task0.V15.Lib;
-namespace Tyuiu.MertsKV.Sprint4.Task0.V15
+namespace Tyuiu.RadchenkoAV.Sprint4.Task0.V15
 {
     internal class Program
     {
