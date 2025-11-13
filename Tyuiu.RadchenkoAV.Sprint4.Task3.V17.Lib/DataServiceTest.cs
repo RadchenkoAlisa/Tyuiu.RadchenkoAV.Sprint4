@@ -5,7 +5,6 @@ namespace Tyuiu.RadchenkoAV.Sprint4.Task3.V17.Lib
     {
         public int Calculate(int[,] array)
         {
-            // Сумма элементов в четвертом столбце
             int sum = 0;
             for (int i = 0; i < array.GetLength(0); i++)
             {
